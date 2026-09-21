@@ -1,0 +1,32 @@
+[
+  {
+    "name": "AI-Driven Programming",
+    "lecturer": "Keren Kalif",
+    "credits": 3
+  },
+  {
+    "name": "Data Structures",
+    "lecturer": "Dr. Yossi Levi",
+    "credits": 4
+  },
+  {
+    "name": "Secure Development",
+    "lecturer": "Dr. Anat Bremler",
+    "credits": 3
+  },
+  {
+    "name": "תכנות מונחה עצמים ושפת C++",
+    "lecturer": "קרן כליף",
+    "credits": 3
+  },
+  {
+    "name": "אתיקה",
+    "lecturer": "ד\"ר דוד שטטר",
+    "credits": 2
+  },
+  {
+    "name": "מבוא לסטטיסטיקה",
+    "lecturer": "ד\"ר כהן",
+    "credits": 3
+  }
+]

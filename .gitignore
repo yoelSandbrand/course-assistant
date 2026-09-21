@@ -1,0 +1,23 @@
+.env
+.venv/
+__pycache__/
+data/notes.json
+data/alert_log.json
+tmp/
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+data/lancedb/
+
+# the assignment brief itself - not part of the submitted code
+*.pdf
+!data/syllabus_*.pdf
+
+# deliverables 2 and 3 are submitted as documents, not as repo files
+REPORT.md
+AI_JOURNAL.md
+
+# working notes for writing the report - not part of the submission
+REPORT_NOTES.md

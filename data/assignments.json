@@ -1,0 +1,38 @@
+[
+  {
+    "course": "AI-Driven Programming",
+    "title": "MCP Exercise",
+    "due": "2026-08-30",
+    "weight": 15
+  },
+  {
+    "course": "Data Structures",
+    "title": "Homework 2 - AVL Trees",
+    "due": "2026-09-22",
+    "weight": 10
+  },
+  {
+    "course": "Secure Development",
+    "title": "Threat Modeling Report",
+    "due": "2026-11-20",
+    "weight": 25
+  },
+  {
+    "course": "אתיקה",
+    "title": "תרגיל בית 1",
+    "due": "2027-08-28",
+    "weight": 10
+  },
+  {
+    "course": "Secure Development",
+    "title": "Lab 3 - Input Validation",
+    "due": "2026-09-23",
+    "weight": 10
+  },
+  {
+    "course": "אתיקה",
+    "title": "מסמך עמדה 1",
+    "due": "2026-09-25",
+    "weight": 15
+  }
+]

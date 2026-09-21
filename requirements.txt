@@ -1,0 +1,25 @@
+mcp<2
+# agno 3.0.6+ imports MCPError, which only exists in mcp 2.x.
+# 3.0.5 is the newest release compatible with the required mcp<2.
+agno==3.0.5
+anthropic
+fastapi
+uvicorn
+python-dotenv
+pypdf
+lancedb
+openai
+
+# Local embedding model - replaces the paid OpenAI embedder (stage 5).
+# Multilingual, runs on CPU, no API key.
+fastembed
+
+# Required by agno's SqliteDb, which stores conversation history (stage 5b).
+sqlalchemy
+
+# Used once to generate the syllabus PDFs in data/.
+fpdf2
+
+# Cron parsing and timezones for the scheduler (stage 8b).
+croniter
+pytz
